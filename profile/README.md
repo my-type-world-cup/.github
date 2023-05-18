@@ -1,12 +1,25 @@
-## Hi there 👋
+## 🐬 이상형월드컵 돌핀!!
 
-<!--
+안녕하세요. 이상형월드컵 돌핀입니다.
 
-**Here are some ideas to get you started:**
+## 📆 프로젝트 기간
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+2023.04.15 ~ 진행 중.
+
+## 🤔 서비스 구상 배경
+
+날씨 좋은 어느날!
+
+여자친구와 뭐하지? 라고 고민을 하던 중 이상형월드컵을 떠올리게 되었는데 ...
+
+이상형월드컵을 만들기 위해 사이트에 접속! 월드컵 만들기 클릭!
+
+그런데 사진을 모두 준비해가야만 하는것이 아닌가 ...
+
+나는 그저 간단하게 초간단하게 이름만 있어도 되는걸 원했는데 ...
+
+기존에 있던 서비스의 문제점인 `월드컵 제작 시 모든 사진을 미리 준비해가야만 하는 점` 을 개선한 서비스
+
+간단하게 월드컵을 제작하고 싶은 사람들을 위해 검색을 기반으로 제작할 수 있도록 개선
+
+오로지 `편리함`에 초점을 맞춘 서비스.

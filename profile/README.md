@@ -2,11 +2,7 @@
 
 안녕하세요. 이상형월드컵 돌픽입니다.
 
-## 베타 배포 주소
-
-[임시배포링크](https://dolpick.vercel.app/){:target="_blank"}
-[링크 텍스트](https://dolpick.vercel.app/){: target="_blank"}
-<a href="https://dolpick.vercel.app/" target="_blank"> 임시배포링크 </a>
+[임시 배포 링크](https://dolpick.vercel.app/)
 
 ## 📆 프로젝트 기간
 

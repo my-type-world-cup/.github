@@ -2,7 +2,7 @@
 
 안녕하세요. 이상형월드컵 돌픽입니다.
 
-[임시 배포 링크](https://www.dolpick.com/)
+https://www.dolpick.com
 
 ## 📆 프로젝트 기간
 

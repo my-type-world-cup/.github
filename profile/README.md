@@ -67,7 +67,9 @@ https://www.dolpick.com
 
 ## 📷 Page GIF
 
-<details>
+<img src="https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true" width="500">
+<img src="https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif" width="500">
+0<details>
 <summary> 회원 가입 및 로그인</summary>
 
 ![리뷰기능](https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true)

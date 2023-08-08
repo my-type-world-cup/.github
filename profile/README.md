@@ -6,24 +6,24 @@
     <h1>이상형 월드컵 Dolpick</h1>
  <br/>   
 </div>
+
+## 목차
+
+1. [**웹 서비스 소개**](#1)
+2. [**프로젝트 기간**](#2)
+3. [**기술 스택**](#3)
+4. [**프로젝트 구성도**](#4)
+5. [**기능**](#5)
+6. [**Page GIF**](#6)
+7. [**개발 팀 소개**](#7)
+
+<br/>
+
 <div id="1"></div>
 
 ## 💁 웹 서비스 소개
 
-이상형 월드컵
-
-<br />
-
 <a href="https://www.dolpick.com" target="_blank"><strong>🔗 '이상형 월드컵' Dolpick 바로가기 Click !</strong></a> 👈
-
-
-<br />
-
-## 📆 프로젝트 기간
-
-2023.04.15 ~ 진행 중.
-
-## 🤔 서비스 구상 배경
 
 날씨 좋은 어느날!
 
@@ -40,6 +40,18 @@
 간단하게 월드컵을 제작하고 싶은 사람들을 위해 검색을 기반으로 제작할 수 있도록 개선
 
 오로지 `편리함`에 초점을 맞춘 서비스.
+
+<br />
+
+<div id="2"></div>
+
+## 📆 프로젝트 기간
+
+2023.04.15 ~ 진행 중.
+
+<br />
+
+<div id="3"></div>
 
 ## **🛠️ 기술 스택**
 
@@ -69,6 +81,10 @@ aws certification
 
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira Software&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 
+<br />
+
+<div id="4"></div>
+
 ## **📑 ️프로젝트 구성도**
 
 ### 아키텍처
@@ -83,8 +99,11 @@ aws certification
 
 <img width="761" alt="erd" src="https://github.com/my-type-world-cup/.github/assets/107738517/0c8c4e7e-8128-47d0-ad93-60c525b5baf5">
 
+<br />
 
+<div id="5"></div>
 
+## **기능**
 
 <details>        
     <summary> 검색 및 상품분류</summary>
@@ -103,6 +122,9 @@ aws certification
     - 리뷰 수정 및 삭제
     - 회원 정보 수정 및 탈퇴
 
+<br />
+
+<div id="6"></div>
 
 ## 📷 Page GIF
 
@@ -113,7 +135,9 @@ aws certification
 
 </details>
 
+<br />
 
+<div id="7"></div>
 
 ## 👪 개발 팀 소개
 

@@ -151,3 +151,30 @@ aws certification
 
 </details>
 
+## 👪 개발 팀 소개
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nakjun12">
+        <img src="https://avatars.githubusercontent.com/u/111031253?v=4" alt="황낙준 프로필" width="150px" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ksiyeong">
+        <img src="https://avatars.githubusercontent.com/u/107738517?v=4" alt="김시영 프로필" width="150px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nakjun12">
+        황낙준<br />(Front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ksiyeong">
+        김시영<br />(Back-end)
+      </a>
+    </td>
+</table>

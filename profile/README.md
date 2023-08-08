@@ -1,7 +1,11 @@
-## 🐬 이상형월드컵 돌픽!!
 
-안녕하세요. 이상형월드컵 돌픽입니다.
-
+<div align="center">
+<br/>
+  <img src="https://velog.velcdn.com/images/wns450/post/4b406b41-4389-4485-a2a6-2e10dc758a08/image.png" width="500" height="300">
+<br/>
+    <h1>이상형 월드컵 Dolpick</h1>
+ <br/>   
+</div>
 https://www.dolpick.com
 
 ## 📆 프로젝트 기간

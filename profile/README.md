@@ -6,7 +6,18 @@
     <h1>이상형 월드컵 Dolpick</h1>
  <br/>   
 </div>
-https://www.dolpick.com
+<div id="1"></div>
+
+## 💁 웹 서비스 소개
+
+이상형 월드컵
+
+<br />
+
+<a href="https://www.dolpick.com" target="_blank"><strong>🔗 '이상형 월드컵' Dolpick 바로가기 Click !</strong></a> 👈
+
+
+<br />
 
 ## 📆 프로젝트 기간
 

@@ -13,9 +13,9 @@
 2. [**프로젝트 기간**](#2)
 3. [**기술 스택**](#3)
 4. [**프로젝트 구성도**](#4)
-5. [**기능**](#5)
-6. [**Page GIF**](#6)
-7. [**개발 팀 소개**](#7)
+5. [**개발 팀 소개**](#7)
+<!-- 5. [**기능**](#5)
+6. [**Page GIF**](#6) -->
 
 <br/>
 
@@ -103,7 +103,7 @@ aws certification
 
 <div id="5"></div>
 
-## **기능**
+<!--## **기능**
 
 <details>        
     <summary> 검색 및 상품분류</summary>
@@ -134,7 +134,7 @@ aws certification
 ![리뷰기능](https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true)
 
 </details>
-
+-->
 <br />
 
 <div id="7"></div>

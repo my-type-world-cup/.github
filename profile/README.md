@@ -49,18 +49,36 @@
 
 ### 백엔드
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=for-the-badge"> <img src="https://img.shields.io/badge/Query%20Dsl-59666C?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data Jpa-6DB33F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Query%20Dsl-59666C?style=for-the-badge&logo=&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src="https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white"> <img src="https://img.shields.io/badge/OAuth2.0-000000?style=for-the-badge&logo=&logoColor=white">
 
-### CI/CD
+### Production
 
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20Amplifyt-FF9900?style=for-the-badge&logo=AWS%20Amplify&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/amazon%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
-![CI:CD 구조](https://github.com/my-type-world-cup/.github/assets/107738517/49420abd-faff-4e5f-808e-253ca2b190ad)
+### Development
 
-## 아키텍처
+<img src="https://img.shields.io/badge/cloudetype-181717?style=for-the-badge&logo=cloudetype&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+### Communication
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+## **📑 ️프로젝트 구성도**
+
+### 아키텍처
 
 ![돌픽아키텍처](https://github.com/my-type-world-cup/.github/assets/107738517/bde5d11f-f0af-4a18-bcb9-db1a9380a2a8)
 
+### CI/CD 구조
+
+![CI:CD 구조](https://github.com/my-type-world-cup/.github/assets/107738517/49420abd-faff-4e5f-808e-253ca2b190ad)
+
+### ERD
+
+<img width="761" alt="erd" src="https://github.com/my-type-world-cup/.github/assets/107738517/0c8c4e7e-8128-47d0-ad93-60c525b5baf5">
 
 # **프로젝트 소개**
 

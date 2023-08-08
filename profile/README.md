@@ -32,8 +32,9 @@ https://www.dolpick.com
 
 ## **👨‍🌾 LOGO**
 
-![Screenshot from 2023-02-13 17-39-58](https://user-images.githubusercontent.com/93567754/218410220-0b14790a-5f77-4f9f-934d-b33a97df028c.png)
+![Screenshot from 2023-02-13 17-39-58](https://velog.velcdn.com/images/wns450/post/4b406b41-4389-4485-a2a6-2e10dc758a08/image.png)
 
+<img src="https://velog.velcdn.com/images/wns450/post/4b406b41-4389-4485-a2a6-2e10dc758a08/image.png" width="500" height="300">
 ## **✨Feature✨**
 
 ### 리스트 & 배너

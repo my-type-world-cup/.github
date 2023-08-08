@@ -107,3 +107,11 @@ https://www.dolpick.com
 ### CI/CD
 
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20Amplifyt-FF9900?style=for-the-badge&logo=AWS%20Amplify&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+
+### 아키텍처
+
+![돌픽아키텍처](https://github.com/my-type-world-cup/.github/assets/107738517/bde5d11f-f0af-4a18-bcb9-db1a9380a2a8)
+
+### CI/CD
+
+![CI:CD 구조](https://github.com/my-type-world-cup/.github/assets/107738517/49420abd-faff-4e5f-808e-253ca2b190ad)

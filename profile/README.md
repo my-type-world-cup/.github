@@ -83,26 +83,8 @@ aws certification
 
 <img width="761" alt="erd" src="https://github.com/my-type-world-cup/.github/assets/107738517/0c8c4e7e-8128-47d0-ad93-60c525b5baf5">
 
-# **프로젝트 소개**
 
-- 배포 링크 : https://d37w3g5qmrrpnl.cloudfront.net/
 
-## **👨‍🌾 LOGO**
-
-![Screenshot from 2023-02-13 17-39-58](https://velog.velcdn.com/images/wns450/post/4b406b41-4389-4485-a2a6-2e10dc758a08/image.png)
-
-<img src="https://velog.velcdn.com/images/wns450/post/4b406b41-4389-4485-a2a6-2e10dc758a08/image.png" width="500" height="300">
-## **✨Feature✨**
-
-### 리스트 & 배너
-
-<details>
-    <summary> 무한스크롤 & 스켈레톤</summary>
-        
-        •  상품 리스트 무한 스크롤 구현
-        
-        •  모든 상품 스켈레톤 적용
-</details>
 
 <details>        
     <summary> 검색 및 상품분류</summary>
@@ -113,7 +95,7 @@ aws certification
         
         •  검색어를 입력하지 않은 경우 상품 추천
 </details>        
-토리지 비우기
+
     
 ### 정보 관리 기능 
     - 장바구니 수정 및 삭제
@@ -124,32 +106,14 @@ aws certification
 
 ## 📷 Page GIF
 
-<img src="https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true" width="500">
-<img src="https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif" width="500">
-0<details>
+<details>
 <summary> 회원 가입 및 로그인</summary>
 
 ![리뷰기능](https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85%EB%B0%8F%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true)
 
 </details>
 
-<summary>장바구니 페이지</summary>
 
-![장바구니페이지](https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true)
-
-</details>
-<details>
-<summary>결제 페이지</summary>
-
-![결제페이지](https://user-images.githubusercontent.com/107738517/215788133-63edb67b-0343-4e7d-81ce-e7c7513f2cbd.gif)
-
-</details>
-<details>
-<summary>마이페이지</summary>
-
-![마이페이지](https://github.com/Ksiyeong/FarmAndPeople-gif/blob/main/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true)
-
-</details>
 
 ## 👪 개발 팀 소개
 
